@@ -1,5 +1,5 @@
-const settings = {
-    title: 'Vue Element Admin',
+export default {
+  title: 'Vue Element Admin',
 
   /**
    * @type {boolean} true | false
@@ -33,5 +33,3 @@ const settings = {
    */
   errorLog: 'production'
 }
-
-export default settings;
